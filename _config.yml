@@ -110,11 +110,8 @@ author:
   avatar           : "assets/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "San Francisco Bay Area"
-  email            : 
+  email            : "hhnguyen@umich.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "hhnguyen@umich.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/nguyenjh"
