@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Jimmy Nguyen"
-  avatar           : "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "San Francisco Bay Area"
   email            : 
